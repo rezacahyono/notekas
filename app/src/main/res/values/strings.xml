@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NoteKas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slogan_one">Record your\nmoney well</string>
+    <string name="slogan_two">Know your financial\nflows to the smallest\npoint</string>
+    <string name="start">Start</string>
+    <string name="slogan_login">And manage your\nmoney now.</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="cannot_empty">Field can not be empty</string>
+    <string name="valid_email">Email can not valid</string>
+    <string name="amount_income">+ %s</string>
+    <string name="amount_expenditure">- %s</string>
+
+    <string-array name="type_input">
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+    </string-array>
+</resources>
